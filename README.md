@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yair-flores-2b0317237/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yair-flores-2b0317237/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yair&Flores-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/https.tuco/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-https.tuco_-blue?style=flat-square&logo=instagram"></a>
 <a href="yair.flores.arg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yair.flores.arg@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
